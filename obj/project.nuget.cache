@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSLrp0bEpGyi+w5TZk1KkmwWVHYpmB9szaHIYmXkoDZodGs2/XQzROdC4dtT07dKSj7cokbHgzjEN3dKntzxOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Виктор\\source\\repos\\FakeThat\\FakeThat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Виктор\\.nuget\\packages\\bogus\\30.0.2\\bogus.30.0.2.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\dumpextensions\\2.0.0\\dumpextensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

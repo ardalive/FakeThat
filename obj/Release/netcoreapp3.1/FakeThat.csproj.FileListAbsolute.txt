@@ -1,0 +1,17 @@
+C:\Users\Виктор\source\repos\FakeThat\bin\Release\netcoreapp3.1\FakeThat.exe
+C:\Users\Виктор\source\repos\FakeThat\bin\Release\netcoreapp3.1\FakeThat.deps.json
+C:\Users\Виктор\source\repos\FakeThat\bin\Release\netcoreapp3.1\FakeThat.runtimeconfig.json
+C:\Users\Виктор\source\repos\FakeThat\bin\Release\netcoreapp3.1\FakeThat.runtimeconfig.dev.json
+C:\Users\Виктор\source\repos\FakeThat\bin\Release\netcoreapp3.1\FakeThat.dll
+C:\Users\Виктор\source\repos\FakeThat\bin\Release\netcoreapp3.1\FakeThat.pdb
+C:\Users\Виктор\source\repos\FakeThat\bin\Release\netcoreapp3.1\Bogus.dll
+C:\Users\Виктор\source\repos\FakeThat\bin\Release\netcoreapp3.1\DumpExtensions.dll
+C:\Users\Виктор\source\repos\FakeThat\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Виктор\source\repos\FakeThat\obj\Release\netcoreapp3.1\FakeThat.csprojAssemblyReference.cache
+C:\Users\Виктор\source\repos\FakeThat\obj\Release\netcoreapp3.1\FakeThat.AssemblyInfoInputs.cache
+C:\Users\Виктор\source\repos\FakeThat\obj\Release\netcoreapp3.1\FakeThat.AssemblyInfo.cs
+C:\Users\Виктор\source\repos\FakeThat\obj\Release\netcoreapp3.1\FakeThat.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\source\repos\FakeThat\obj\Release\netcoreapp3.1\FakeThat.csproj.CopyComplete
+C:\Users\Виктор\source\repos\FakeThat\obj\Release\netcoreapp3.1\FakeThat.dll
+C:\Users\Виктор\source\repos\FakeThat\obj\Release\netcoreapp3.1\FakeThat.pdb
+C:\Users\Виктор\source\repos\FakeThat\obj\Release\netcoreapp3.1\FakeThat.genruntimeconfig.cache

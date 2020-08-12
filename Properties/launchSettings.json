@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FakeThat": {
+      "commandName": "Project",
+      "commandLineArgs": "en_US 100 0"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FakeThat/1.0.0": {
+        "dependencies": {
+          "Bogus": "30.0.2",
+          "DumpExtensions": "2.0.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "FakeThat.dll": {}
+        }
+      },
+      "Bogus/30.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Bogus.dll": {
+            "assemblyVersion": "30.0.2.0",
+            "fileVersion": "30.0.2.0"
+          }
+        }
+      },
+      "DumpExtensions/2.0.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/DumpExtensions.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FakeThat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bogus/30.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EhygcI3BnJZU1o6bQDmCaYg4WjvFpcmwUZO6UWdF72+0RF1rbXRVh9vTaev0TEszsrtlnd2W5QEK7x4xZiw3EQ==",
+      "path": "bogus/30.0.2",
+      "hashPath": "bogus.30.0.2.nupkg.sha512"
+    },
+    "DumpExtensions/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eBqe0bpE141S5ZroiHEF5t5KwvH8kfOBMq/SFQLyFG36fRs2sX/Njo811U5GzcMzSp/JV2dxqe3IoHb7aOZ6rA==",
+      "path": "dumpextensions/2.0.0",
+      "hashPath": "dumpextensions.2.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}
